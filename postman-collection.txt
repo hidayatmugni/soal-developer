@@ -1,0 +1,18 @@
+*Marketing Routes
+
+GET /api/marketing – Menampilkan semua marketing
+
+*Payments Routes
+
+GET /api/payments – Menampilkan semua payments
+POST /api/payments – Menambah payments baru
+
+
+*Penjualan Routes
+
+GET /api/penjualan – Menampilkan semua transaksi penjualan
+POST /api/penjualan – Menambah transaksi penjualan baru
+PUT /api/penjualan/:id – Mengedit transaksi penjualan 
+
+*Komisi Routes
+GET /api/comission/komisi – Menampilkan semua komisi marketing perbulan nya masing-masing
